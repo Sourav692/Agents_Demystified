@@ -121,6 +121,11 @@ print("=" * 50 + "\n")
 
 asyncio.run(brew_chai())
 
+# async def main():
+#     await brew_chai()
+
+# asyncio.run(main())
+
 print("\n🎉 Async program completed!")
 
 
